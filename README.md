@@ -7,7 +7,7 @@
 - Intuitive Context Message Menu
 - Responsive Message Buttons
 - Database Management (Json)
-- User-Friendly Interface ![Check Mark Box](https://example.com/check-mark-box.svg)
+- User-Friendly Interface
 
 ## 🎶 Supported Sources
 
