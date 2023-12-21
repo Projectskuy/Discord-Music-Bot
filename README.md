@@ -40,6 +40,7 @@ Visit the `settings` folder and click on `config.js` file then fill out all the 
 TOKEN: process.env.TOKEN || "",  <=== You need to fill inside the quotations
 PREFIX: process.env.PREFIX || "", <=== You need to fill inside the quotations
 OWNER_ID: process.env.OWNER_ID || "", <=== You need to fill inside the quotations
+```
 
 # 📄 Features & Commands Overview
 > **Note:** The default prefix is `/`
