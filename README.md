@@ -27,7 +27,7 @@
 # 💌 Installation Steps
 
 ```bash
-git clone https://github.com/Adivise/DisSpaceX
+git clone https://github.com/Sparks33/Discord-Music-Bot.git
 npm install
 ```
 
