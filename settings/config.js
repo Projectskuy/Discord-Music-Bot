@@ -8,8 +8,8 @@ module.exports = {
      */
 
     TOKEN: process.env.TOKEN || "",  // your bot token
-    PREFIX: process.env.PREFIX || "", //<= default is #  // bot prefix
-    OWNER_ID: process.env.OWNER_ID || "", //your client id
+    PREFIX: process.env.PREFIX || "+", //<= default is #  // bot prefix
+    OWNER_ID: process.env.OWNER_ID || "1207745002650861623", //your client id
 
     /**
      *
