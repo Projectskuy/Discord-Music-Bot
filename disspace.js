@@ -6,10 +6,10 @@ const express = require('express')
 const app = express();
 const port = 3000
 
-app.get('/', (req, res) => res.send('Subscribe to Quantom.'))
+app.get('/', (req, res) => res.send('Follow My Tiktok : https://tiktok.com/@denzzkentod.exe.'))
 
 app.listen(port, () =>
-console.log(`Programmed by Quantom.`)
+console.log(`Programmed by Denzz.APK.`)
 );
 
 class MainClient extends Client {
